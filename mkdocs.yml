@@ -25,7 +25,7 @@ nav:
   - Storage:
       - Your code: https://github.com/CU-ESIIL/social-impacts-of-transformations-innovation-summit-2025__14/tree/main/code
       - Your documentation: https://github.com/CU-ESIIL/social-impacts-of-transformations-innovation-summit-2025__14/tree/main/documentation
-      - Your persistent storage: https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_summit/Group_14
+      - Your persistent storage: https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_summit/Group_14?type=folder&resourceId=fbbbc478-95a1-11f0-b0fb-90e2ba675364
   - Orientation:
       - Summit slides: orientation/slides.md
       - ESIIL training: orientation/esiil_training.md

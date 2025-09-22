@@ -1,6 +1,6 @@
-# Welcome to ESIIL Education Student OASIS
+# Welcome to the Social Impacts of Transformations Sprint
 
-This is the central resource for ESIIL project groups.
+This is the central resource for Innovation Summit 2025 project groups.
 
 ## Embedded Website
 

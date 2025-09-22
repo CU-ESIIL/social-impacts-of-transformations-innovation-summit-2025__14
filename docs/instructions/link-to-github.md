@@ -125,7 +125,7 @@ When you clone or set your remote, **always copy the SSH link** from GitHub, not
 Example:
 
 ```
-git@github.com:CU-ESIIL/home.git
+git@github.com:CU-ESIIL/social-impacts-of-transformations-innovation-summit-2025__14.git
 ```
 
 ### Check your remote inside JupyterHub

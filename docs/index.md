@@ -29,23 +29,23 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 *Focus: questions, hypotheses, context; add at least one visual (photo of whiteboard/notes).*
 
 ### Our product 📣
-- We would like to create a publication to support our grant and funding goals. We would also like to create a public resource or tool.
+- We would like to create a publication to support our grant and funding goals. We would also like to create a public resource or tool to communicate fire resilience strategies.
 
 ### Our question(s) 📣
 <!-- EDIT: Replace bullets with your own. Encourage divergent takes. -->
-- What are we trying to understand or change?
-- Why now? Why here?
-- Who benefits if we succeed?
+- What are we trying to understand or change? We would like to improve people's understanding of how to balance individual vs communal risk around wildfires. Collective assessment of risk. Mitigation post fire events. 
+- Why now? Why here? Gap in understanding of the built environments impact on fire events and mitigation. Colorado and California has a large population in the woowee, wild urban interface. Population shift and people migration pre- and post-pandemic. Many different stakeholders, both public and private. Complimentary studies between defencible space and socioeconomic factors. This case study compliments existing work.
+- Who benefits if we succeed? Our goal is to make the deliverable as a case study that helps the communities at risk. Use the information in this study to benefit the community that we are studying. Help the community make better decisions.
 
 ### Hypotheses / intentions [Optional: probably not relevant if you are creating an educational tool]
 <!-- EDIT: Plain language, short and honest. -->
-- We think that …
+- We think that 
 - We intend to test whether …
 - We will know we’re onto something if …
 
 ### Why this matters (the “upshot”) 📣
 <!-- EDIT: 2–3 sentences max, decision-oriented. -->
-Explain who is impacted and how this could change decisions or understanding.
+Explain who is impacted and how this could change decisions or understanding. The communities that are impacted are those in California and Colorado specifically those that have been affected by a fire events within the past 2 decades. How does individual risk relate to community risk and how is risk impacted by those within the community in relation to each other. Are/which socioeconomic factors correlated to any trends seen in individual vs communal risk mitagation.
 
 ### Inspirations (papers, datasets, tools)
 <!-- EDIT: Swap in your own links. -->

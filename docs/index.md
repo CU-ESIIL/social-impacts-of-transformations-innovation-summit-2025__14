@@ -29,7 +29,7 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 *Focus: questions, hypotheses, context; add at least one visual (photo of whiteboard/notes).*
 
 ### Our product 📣
-- What product do you want to create as a team?
+- We would like to create a publication to support our grant and funding goals. We would also like to create a public resource or tool.
 
 ### Our question(s) 📣
 <!-- EDIT: Replace bullets with your own. Encourage divergent takes. -->

@@ -90,7 +90,7 @@ Collaborate with COI engine work.
 - Source B — link and 1-line description
 
 ### Methods / technologies we’re testing 📣
-- Approach 1 (e.g., time-series break detection)
+- Approach 1: Image classification on the naips imagery, joining this to fast fires for county, joining to cencus data by tract.
 - Approach 2 (e.g., random forest on features)
 - Visualization (e.g., map tiles, small multiples)
 

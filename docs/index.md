@@ -67,7 +67,18 @@ Explain who is impacted and how this could change decisions or understanding. Th
 *Focus: what we’re testing and building; show a first visual (plot/map/screenshot/GIF).*
 
 ### Data sources we’re exploring 📣
-<!-- EDIT: Link each source; add size/notes if relevant. -->
+<!-- EDIT: Link each source; add size/notes if relevant. --> All within Mariposa county and contiguous counties. All of Colorado State and Wyoming State, and contiguous?
+1. Highest imagery NAIP 60; RGB and NDVI - either RGB or NDVI maybe use one, maybe use both.
+2. Then use 4 classifications below.
+3. Third is zoning maps.
+4. Then corelogic resolution, years, construction types.
+5. Census data or ACS, every 4 years data; 2024?, 2016, 2012, 2008, 2004, 2000; health data, social data, housing data, economic.
+6. Roads, maybe OSM? Or local road/county road databases for spacial network analysis
+7. 14,000 parcels, over many years, for each polygon was it within 6 miles of the fire.
+8. Evacs, 209's, structures threatened in 24 hrs
+Four classifications: man made, water, barren, and vegetation
+
+The output will be an excel with one column as parcels, then connectivity, % defensible space or 100ft, how close fire 1, how close fire 2: and then do this for each year. On years where we have census data it will be added on there too.
 - **Source A**
 
   ![Pattern revealed during exploration](assets/explore_data_plot.png)

@@ -1,4 +1,4 @@
-# Social Impacts of Transformations — Innovation Summit 2025 (Group 14)
+# The Hot Parcels
 
 
 <p style="text-align: right;"><a href="https://github.com/CU-ESIIL/social-impacts-of-transformations-innovation-summit-2025__14/edit/main/docs/index.md" title="Edit this page">✏️</a></p>
@@ -79,6 +79,8 @@ Explain who is impacted and how this could change decisions or understanding. Th
 Four classifications: man made, water, barren, and vegetation
 
 The output will be an excel with one column as parcels, then connectivity, % defensible space or 100ft, how close fire 1, how close fire 2: and then do this for each year. On years where we have census data it will be added on there too.
+
+Collaborate with COI engine work.
 - **Source A**
 
   ![Pattern revealed during exploration](assets/explore_data_plot.png)

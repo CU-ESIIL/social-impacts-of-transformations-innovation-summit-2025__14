@@ -1,6 +1,6 @@
 # Social Impacts of Transformations — Innovation Summit 2025 (Group 14)
 
-This guide is written for people who may be brand new to GitHub. It walks through how to use this repository during the Innovation Summit as both:
+This guide is written for people who may be brand new to GitHub. It walks through how to use this repository during the Innovation Summit as both::
 
 *The Social Impacts of Transformations team (Group 14) uses this space to coordinate science, storytelling, and shared workflows throughout the 2025 Innovation Summit.*
 

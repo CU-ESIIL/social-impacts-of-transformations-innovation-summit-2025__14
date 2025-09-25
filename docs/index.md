@@ -65,6 +65,8 @@ Explain who is impacted and how this could change decisions or understanding. Th
 
 ## Day 2 — Data & Methods
 *Focus: what we’re testing and building; show a first visual (plot/map/screenshot/GIF).*
+![Parcels](assets/Untitled.png)
+
 
 ### Data sources we’re exploring 📣
 <!-- EDIT: Link each source; add size/notes if relevant. --> All within Mariposa county and contiguous counties. All of Colorado State and Wyoming State, and contiguous?

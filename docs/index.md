@@ -128,7 +128,7 @@ Collaborate with COI engine work.
 Independent variable: percent of parcel in compliance each year
 Dependent variables: socioeconomic variables, connectivity, fire history (within a certain radius, like 1 mile or 2 miles), proximity to water bodies, proximity to fire stations, how much funding was made available to certain parcels and how much was utlized by those communities (NRCS and firewise), 
 
-![A team, not this team, but a great team](assets/_DSC8160.png)
+![A team, not this team, but a great team](assets/_DSC8160.jpg)
 
 
 

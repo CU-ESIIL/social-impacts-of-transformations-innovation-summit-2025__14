@@ -80,14 +80,7 @@ Four classifications: man made, water, barren, and vegetation
 
 The output will be an excel with one column as parcels, then connectivity, % defensible space or 100ft, how close fire 1, how close fire 2: and then do this for each year. On years where we have census data it will be added on there too.
 
-Collaborate with COI engine work.
-- **Source A**
-
-  ![Pattern revealed during exploration](assets/explore_data_plot.png)
-[Raw photo location: explore_data_plot.png](https://github.com/CU-ESIIL/social-impacts-of-transformations-innovation-summit-2025__14/blob/main/docs/assets/explore_data_plot.png)
-  *Snapshot showing initial data patterns.*
-
-- Source B — link and 1-line description
+Collaborate COI engine.
 
 ### Methods / technologies we’re testing 📣
 - Approach 1: Image classification on the naips imagery, joining this to fast fires for county, joining to cencus data by tract.
@@ -99,26 +92,6 @@ Collaborate with COI engine work.
 - Method limitations / compute constraints
 - Open questions we need to decide on: Will be begin with analyzing defensible space surrounding the center of a parcel pre and post fire event and also layer on census data on top or will be do two seperate analyses one focusing on the pre-vs post-fire event defensible space rebuild and one focusing on the rebuilding of defensible space in difference socio-economic regions.
 
-### Visuals
-<!-- EDIT: Swap examples; keep file sizes modest. -->
-#### Static figure
-![Early pattern we’re seeing](assets/figure1.png)
-[Raw photo location: figure1.png](https://github.com/CU-ESIIL/social-impacts-of-transformations-innovation-summit-2025__14/blob/main/docs/assets/figure1.png)
-*Figure 1.* One line on what this suggests.
-
-#### Animated change (GIF)
-![Seasonal/temporal change animation](assets/change.gif)
-[Raw photo location: change.gif](https://github.com/CU-ESIIL/social-impacts-of-transformations-innovation-summit-2025__14/blob/main/docs/assets/change.gif)
-*Figure 2.* One line on what changes across time.
-
-#### Interactive map (iframe)
-<iframe
-  title="Study area (OpenStreetMap)"
-  src="https://www.openstreetmap.org/export/embed.html?bbox=-105.35%2C39.90%2C-105.10%2C40.10&layer=mapnik&marker=40.000%2C-105.225"
-  width="100%" height="360" frameborder="0"></iframe>
-<p><a href="https://www.openstreetmap.org/?mlat=40.000&mlon=-105.225#map=12/40.0000/-105.2250">Open full map</a></p>
-
-> If an embed doesn’t load, put the normal link directly under it.
 
 ---
 
@@ -131,34 +104,12 @@ Dependent variables: socioeconomic variables, connectivity, fire history (within
 ![A team, not this team, but a great team](assets/_DSC8160.jpg)
 
 
-
 ### Findings at a glance 📣
 - 1 Location: Comparing Mariposa, California with Boulder, Colorado
 - 2 Timeframe: Going back to 2005 and going until 2024 (once available)
 - 3 Frequency: Looking at yearly or biyearly fire data and naip imagery and census data from every 4 years
 - 4 Classifications: classifying imagery into landcover vs build structures vs vegetation fuel vs barren
 - 5 Calculation: percent of parcel that is in compliance with defensible space requirements. Connectivity per parcel (via road networks? Point pattern metrics like number of neighbors?), we are still considering parameters for this.
-
-### Visuals that tell the story 📣
-<!-- EDIT: Swap visuals; prioritize clarity. -->
-![Lead conclusion visual placeholder](assets/fire_hull.png)
-[Raw photo location: fire_hull.png](https://github.com/CU-ESIIL/social-impacts-of-transformations-innovation-summit-2025__14/blob/main/docs/assets/fire_hull.png)
-*Visual 1.* Swap in the primary graphic that clearly communicates your core takeaway.
-
-![Supporting panels for key insights](assets/hull_panels.png)
-[Raw photo location: hull_panels.png](https://github.com/CU-ESIIL/social-impacts-of-transformations-innovation-summit-2025__14/blob/main/docs/assets/hull_panels.png)
-*Visual 2.* Use a complementary panel, collage, or set of snapshots that reinforces supporting evidence.
-
-![Complementary result figure placeholder](assets/main_result.png)
-[Raw photo location: main_result.png](https://github.com/CU-ESIIL/social-impacts-of-transformations-innovation-summit-2025__14/blob/main/docs/assets/main_result.png)
-*Visual 3.* Highlight an additional visual that captures a secondary insight or next step.
-
-<iframe
-  title="Short explainer video (optional)"
-  width="100%" height="360"
-  src="https://www.youtube.com/embed/ASTGFZ0d6Ps"
-  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen></iframe>
 
 ### What’s next? 📣
 - Set up follow up meetings and a timeline for publication (Rachel)
@@ -170,21 +121,7 @@ Dependent variables: socioeconomic variables, connectivity, fire history (within
 
 ---
 
-## Featured links (image buttons)
-<!-- EDIT: Replace images/links; keep alt text meaningful and motion subtle. -->
-<table>
-<tr>
-<td align="center" width="33%">
-  <a href="assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdf"><img src="assets/button_brief.gif" alt="Project brief PDF" width="240"><br><strong>Read the brief</strong></a>
-</td>
-<td align="center" width="33%">
-  <a href="https://github.com/CU-ESIIL/social-impacts-of-transformations-innovation-summit-2025__14/blob/main/code/fired_time_hull_panel.ipynb"><img src="assets/button_code.gif" alt="View shared code" width="240"><br><strong>View code</strong></a>
-</td>
-<td align="center" width="33%">
-  <a href="https://github.com/CU-ESIIL/social-impacts-of-transformations-innovation-summit-2025__14/blob/main/code/prism_quicklook.py"><img src="assets/button_data.gif" alt="Explore data" width="240"><br><strong>Explore data</strong></a>
-</td>
-</tr>
-</table>
+
 
 ---
 

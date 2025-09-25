@@ -128,8 +128,9 @@ Collaborate with COI engine work.
 Independent variable: percent of parcel in compliance each year
 Dependent variables: socioeconomic variables, connectivity, fire history (within a certain radius, like 1 mile or 2 miles), proximity to water bodies, proximity to fire stations, how much funding was made available to certain parcels and how much was utlized by those communities (NRCS and firewise), 
 
-![Team photo at start of Day 3](assets/team_photo.jpg)
-[Raw photo location: team_photo.jpg](https://github.com/CU-ESIIL/social-impacts-of-transformations-innovation-summit-2025__14/blob/main/docs/assets/team_photo.jpg)
+![A team, not this team, but a great team](assets/_DSC8160.png)
+
+
 
 ### Findings at a glance 📣
 - 1 Location: Comparing Mariposa, California with Boulder, Colorado

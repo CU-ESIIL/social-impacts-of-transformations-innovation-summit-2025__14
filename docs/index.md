@@ -29,7 +29,7 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 *Focus: questions, hypotheses, context; add at least one visual (photo of whiteboard/notes).*
 
 ### Our product 📣
-- We would like to create a publication to support our grant and funding goals. We would also like to create a public resource or tool to communicate fire resilience strategies.
+- We would like to create a publication to support our grant and funding goals. As a future direction, we would like to create a public resource or tool to communicate fire resilience strategies.
 
 ### Our question(s) 📣
 <!-- EDIT: Replace bullets with your own. Encourage divergent takes. -->
@@ -95,9 +95,9 @@ Collaborate with COI engine work.
 - Visualization (e.g., map tiles, small multiples)
 
 ### Challenges identified
-- Data gaps / quality issues
+- Data gaps / quality issues: map data resolution is not always ideal for the parcels we are working with. Census data is collected and published every 4 years vs fire data that is collected and published annually.
 - Method limitations / compute constraints
-- Open questions we need to decide on
+- Open questions we need to decide on: Will be begin with analyzing defensible space surrounding the center of a parcel pre and post fire event and also layer on census data on top or will be do two seperate analyses one focusing on the pre-vs post-fire event defensible space rebuild and one focusing on the rebuilding of defensible space in difference socio-economic regions.
 
 ### Visuals
 <!-- EDIT: Swap examples; keep file sizes modest. -->
@@ -125,14 +125,18 @@ Collaborate with COI engine work.
 ## Final Share Out — Insights & Sharing 
 *Focus: synthesis; highlight 2–3 visuals that tell the story; keep text crisp. Practice a 2-minute walkthrough of the homepage 📣: Why → Questions → Data/Methods → Findings → Next.*
 
+Independent variable: percent of parcel in compliance each year
+Dependent variables: socioeconomic variables, connectivity, fire history (within a certain radius, like 1 mile or 2 miles), proximity to water bodies, proximity to fire stations, how much funding was made available to certain parcels and how much was utlized by those communities (NRCS and firewise), 
+
 ![Team photo at start of Day 3](assets/team_photo.jpg)
 [Raw photo location: team_photo.jpg](https://github.com/CU-ESIIL/social-impacts-of-transformations-innovation-summit-2025__14/blob/main/docs/assets/team_photo.jpg)
 
 ### Findings at a glance 📣
-<!-- EDIT: 2–4 bullets, each a headline in plain language with a number if possible. -->
-- Headline 1 — what, where, how much
-- Headline 2 — change/trend/contrast
-- Headline 3 — implication for practice or policy
+- 1 Location: Comparing Mariposa, California with Boulder, Colorado
+- 2 Timeframe: Going back to 2005 and going until 2024 (once available)
+- 3 Frequency: Looking at yearly or biyearly fire data and naip imagery and census data from every 4 years
+- 4 Classifications: classifying imagery into landcover vs build structures vs vegetation fuel vs barren
+- 5 Calculation: percent of parcel that is in compliance with defensible space requirements. Connectivity per parcel (via road networks? Point pattern metrics like number of neighbors?), we are still considering parameters for this.
 
 ### Visuals that tell the story 📣
 <!-- EDIT: Swap visuals; prioritize clarity. -->
@@ -156,9 +160,12 @@ Collaborate with COI engine work.
   allowfullscreen></iframe>
 
 ### What’s next? 📣
-- Immediate follow-ups
-- What we would do with one more week/month
-- Who should see this next
+- Set up follow up meetings and a timeline for publication (Rachel)
+- Week 1: pull census data for Mariposa and Boulder (Beth and Lise), corelogic dataset (Lise)
+- Week 1 - 2: remote sensing challenge tackling (Beth and Lise and Virginia), get NDVI data, talk to NRCS and FireWise (who got $?) (Beth)
+- Week 3 - 4: quantification and calculation (Beth and Lise and Virginia) - percent of parcels in compliance, phone a network analysis person for connectivity analysis (anyone here who can help?)
+- Week 5 - 6: Refine hypothesis based on data that has been collected, what can we actually test and what's the right modeling approach? Revisit: is the goal still a publication? If so, let Chelsea know about our intention to submit to the special issue.
+- Week 6 and beyond: review timeline, check in, what's next
 
 ---
 

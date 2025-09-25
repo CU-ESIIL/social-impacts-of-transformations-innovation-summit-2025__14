@@ -53,13 +53,6 @@ Explain who is impacted and how this could change decisions or understanding. Th
 - Dataset portal: [Example data hub](https://example.org)
 - Tool/tech: [Method or library](https://example.org)
 
-### Field notes / visuals
-<!-- EDIT: Replace with a real smartphone photo or sketch; keep filename simple. -->
-![Whiteboard brainstorm (replace this)](assets/day1_whiteboard.jpg)
-[Raw photo location: day1_whiteboard.jpg](https://github.com/CU-ESIIL/social-impacts-of-transformations-innovation-summit-2025__14/blob/main/docs/assets/day1_whiteboard.jpg)
-*Caption: What this shows and why it’s useful today.*
-
-> **Different perspectives:** Briefly capture disagreements or alternate framings. These can unlock innovation.
 
 ---
 

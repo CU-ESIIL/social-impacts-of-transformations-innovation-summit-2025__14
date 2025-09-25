@@ -7,7 +7,7 @@
 HERO (Swap hero.jpg, title, strapline, and the three links)
 ========================================================= -->
 
-![Wide banner of the study system](assets/hero.jpg)
+![Wide banner of the study system](assets/image.png)
 [Raw photo location: hero.jpg](https://github.com/CU-ESIIL/social-impacts-of-transformations-innovation-summit-2025__14/blob/main/docs/assets/image.png)
 
 **One sentence on impact:** In 3 days, we explore how communities navigate transformative environmental change, producing actionable visuals, a concise brief, and shareable code for partners.
